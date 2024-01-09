@@ -6,6 +6,14 @@ This repository contains the Homework assignments and experiments carried out fo
 
 This subject provides its students with a solid understanding on ZZZZZ concepts to be used on the ZZZZZ fields:
 
+
+
+Computer Vision Project: objective
+[Download PDF](https://github.com/yourusername/yourrepository/raw/main/path/to/your/file.pdf)
+
+
+Sequential Prediction Project: Apple Stock Prediction
+
 📁 ***_HOMEWORK 1:_***
 
 ---
