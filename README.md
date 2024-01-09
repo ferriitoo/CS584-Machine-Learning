@@ -18,7 +18,10 @@ Sequential Prediction Project: Apple Stock Prediction
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training_2.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training_3.png" width="500"/>
+
 
 ---
 
