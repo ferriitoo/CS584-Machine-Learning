@@ -40,12 +40,15 @@ Linear Regression, Theoretical questions.
 
 Scatter Plots 
 
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/scatter.png" width="500"/>
 
+Cost over epochs:
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/epochs.png" width="500"/>
 
 Decision Boundaries
 
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/scatter_decision.png" width="500"/>
 
 ---
 
@@ -54,15 +57,7 @@ Decision Boundaries
 
 ---
 
-Logistic Regression
-
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
-
-Navier Bayes
-
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
-
-Sampling
+Logistic Regression, Navier Bayes & Sampling:
 
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_1.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_2.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_3.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_4.png" width="250"/>
 
@@ -72,8 +67,7 @@ Gaussian Probability Distribution function
 
 ---
 
-epochs.png
 
 
-scatter.png
-scatter_decision.png
+
+
