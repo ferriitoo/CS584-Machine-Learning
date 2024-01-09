@@ -6,12 +6,13 @@ This repository contains the Homework assignments and experiments carried out fo
 
 This subject provides its students with a solid understanding on the fundamentals of Machine Learning: Gradient Descent, optimizers, Computer Vision, NLP, Encoder-Decoder architectures... to be used on advanced Artificial Intelligent applications, and to set the basis for the next step: Deep Learning.
 
-📁 ***_Computer Vision Project: objective_***
+📁 ***_Computer Vision Project: Mice Gravity Center detection***
 
 ---
 
-pdf last report
-[Download PDF](https://github.com/yourusername/yourrepository/raw/main/path/to/your/file.pdf)
+This project uses AI architectures in order to be able to detect mice´s Gravity Center (GC) by using the location X-Y coordinates of various body parts as input: NOSE, LEFT_TEAR, RIGHT_TEAR, LEFT_HIP, RIGHT_HIP, TAIL_BASE and TAIL_END.
+
+[Download Report PDF](Julen-Ferro-cs584/doc/Julen_Ferro_Report.pdf)
 
 ---
 
@@ -20,8 +21,7 @@ pdf last report
 
 ---
 
-LaTeX pdf last report
-[Download PDF](https://github.com/yourusername/yourrepository/raw/main/path/to/your/file.pdf)
+[Download LaTeX Report PDF](project/doc/Julen_Ferro___Eneko_Gonzalez_CS_584_Project__CVPR_.pdf)
 
 ---
 
