@@ -17,7 +17,7 @@ This project uses AI architectures to detect mice´s Gravity Center (GC) by usin
 **ANNOTATIONS PHASE**
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/annotations_image.PNG" width="48%" />
-  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/dataset_annotations.PNG" width="48%" />
+  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_in_a_new_cage_side_view_4_2022-08-10_15-39-03_249.png" width="48%" />
 </div>
 
 **DATASET**
@@ -30,7 +30,7 @@ This project uses AI architectures to detect mice´s Gravity Center (GC) by usin
   <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_side_view_4_2022-08-10_15-41-04_736.png" width="48%" />
 </div>
 
-<img src=""https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_in_a_new_cage_side_view_4_2022-08-10_15-39-03_249.png" width="96%" />
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/dataset_annotations.PNG" width="96%" />
 
 
 📁 ***_Sequential Prediction Project: Apple Stock Prediction_***
