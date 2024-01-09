@@ -23,7 +23,9 @@ This project uses AI architectures in order to be able to detect mice´s Gravity
 
 ---
 
-This project intends to build different Recurrent models in order to predict APPLE STOCK price based on the historic timeseries stock price. Different Recurrent architectures are compared in terms of performance, complexity and runtime: Recurrent Neural Networks (RNN), Long-Short Term Memory Neural Networks (LSTM NN), Gated Recurrent Unit (GRU). Additionally, non-Machine Learning based predictive statistical techniques are also used in order to compare and assess the importance of Machine Learning in order to learn from features, rather than performing basic statistical analysis with: ARIMA, and different Window-sized Simple Moving Averages (SMA)...
+* This project intends to build different Recurrent models in order to predict APPLE STOCK price based on the historic timeseries stock price. 
+* Different Recurrent architectures are compared in terms of performance, complexity and runtime: Recurrent Neural Networks (RNN), Long-Short Term Memory Neural Networks (LSTM NN), Gated Recurrent Unit (GRU).
+* Additionally, non-Machine Learning based predictive statistical techniques are also used in order to compare and assess the importance of Machine Learning in order to learn from features, rather than performing basic statistical analysis with: ARIMA, and different Window-sized Simple Moving Averages (SMA)...
 
 - [Download LaTeX Report PDF](project/doc/Julen_Ferro___Eneko_Gonzalez_CS_584_Project__CVPR_.pdf)
 
