@@ -29,7 +29,7 @@ This project uses AI architectures to detect mice´s Gravity Center (GC) by usin
   <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_side_view_4_2022-08-10_15-41-04_736.png" width="48%" />
 </div>
 
-***_DATASET***
+***_DATASET_***
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/dataset_annotations.PNG" width="96%" />
 
 
