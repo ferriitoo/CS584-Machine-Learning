@@ -19,8 +19,6 @@ Sequential Prediction Project: Apple Stock Prediction
 ---
 
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training_2.png" width="500"/>
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training_3.png" width="500"/>
 
 
 ---
@@ -29,6 +27,8 @@ Sequential Prediction Project: Apple Stock Prediction
 📁 ***_HOMEWORK 2:_***
 
 ---
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/t.png" width="500"/>
 
 ---
 
