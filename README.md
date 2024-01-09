@@ -1,18 +1,29 @@
 ***Author: Julen Ferro 🚗***
 
-# ***_ZZZZZ_*** 🛠️
+# ***_CS584 MACHINE LEARNING_*** 🛠️
 
-This repository contains the Homework assignments and experiments carried out for the ZZZ subject, at Illinois Institute of Technology for the Master´s degree in Computational Decision Science & Operations Research.
+This repository contains the Homework assignments and experiments carried out for the Machine Learning subject, at Illinois Institute of Technology for the Master´s degree in Computational Decision Science & Operations Research.
 
-This subject provides its students with a solid understanding on ZZZZZ concepts to be used on the ZZZZZ fields:
+This subject provides its students with a solid understanding on the fundamentals of Machine Learning: Gradient Descent, optimizers, Computer Vision, NLP, Encoder-Decoder architectures... to be used on advanced Artificial Intelligent applications, and to set the basis for the next step: Deep Learning.
 
+📁 ***_Computer Vision Project: objective_***
 
+---
 
-Computer Vision Project: objective
+pdf last report
 [Download PDF](https://github.com/yourusername/yourrepository/raw/main/path/to/your/file.pdf)
 
+---
 
-Sequential Prediction Project: Apple Stock Prediction
+
+📁 ***_Sequential Prediction Project: Apple Stock Prediction_***
+
+---
+
+LaTeX pdf last report
+[Download PDF](https://github.com/yourusername/yourrepository/raw/main/path/to/your/file.pdf)
+
+---
 
 📁 ***_HOMEWORK 1:_***
 
@@ -20,32 +31,5 @@ Sequential Prediction Project: Apple Stock Prediction
 
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
 
-
----
-
-
-📁 ***_HOMEWORK 2:_***
-
----
-
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/t.png" width="500"/>
-
----
-
-📁 ***_HOMEWORK 3:_***
-
----
-
----
-
-📁 ***_HOMEWORK 4:_***
-
----
-
----
-
-📁 ***_HOMEWORK 5:_***
-
----
 
 ---
