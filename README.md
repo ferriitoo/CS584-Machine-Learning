@@ -64,10 +64,16 @@ Navier Bayes
 
 Sampling
 
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_1.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_2.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_3.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_4.png" width="250"/>
 
 Gaussian Probability Distribution function
 
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/gaussian_prob.png" width="500"/>
 
 ---
+
+epochs.png
+
+
+scatter.png
+scatter_decision.png
