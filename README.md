@@ -35,6 +35,18 @@ This project uses AI architectures in order to be able to detect mice´s Gravity
 
 ---
 
+---
+
+
+📁 ***_HOMEWORK 2:_***
+
+---
+
+---
+
+📁 ***_HOMEWORK 3:_***
+---
+
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
 
 
