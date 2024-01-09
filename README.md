@@ -16,11 +16,10 @@ This project uses AI architectures in order to be able to detect mice´s Gravity
 - [Download Presentation PPTX](project/CS584-ML-Project.pptx)
 - [Download Presentation PDF](project/CS584_ML_FinalProject_Presentation.pdf)
 
-0024 (subset-toobig)/A_male_in_a_new_cage_face_view_3_2022-08-10_15-39-01_262.png
-0024 (subset-toobig)/A_male_in_a_new_cage_side_view_4_2022-08-10_15-39-03_249.png
-0024 (subset-toobig)/A_male_meet_with_a_female_side_view_4_2022-08-10_15-43-20_842.png
-0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_side_view_4_2022-08-10_15-41-04_736.png
-0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_top_view_1_2022-08-10_15-43-15_968.png
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_in_a_new_cage_face_view_3_2022-08-10_15-39-01_262.png" width="500"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_in_a_new_cage_side_view_4_2022-08-10_15-39-03_249.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_meet_with_a_female_side_view_4_2022-08-10_15-43-20_842.png" width="500"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_side_view_4_2022-08-10_15-41-04_736.png" width="500"/>
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_top_view_1_2022-08-10_15-43-15_968.png" width="1000"/>
 
 ---
 
