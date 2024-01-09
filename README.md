@@ -13,6 +13,8 @@ This subject provides its students with a solid understanding on the fundamental
 This project uses AI architectures in order to be able to detect mice´s Gravity Center (GC) by using the location X-Y coordinates of various body parts as input: NOSE, LEFT_TEAR, RIGHT_TEAR, LEFT_HIP, RIGHT_HIP, TAIL_BASE and TAIL_END.
 
 [Download Report PDF](Julen-Ferro-cs584/doc/Julen_Ferro_Report.pdf)
+[Download Presentation PPTX](project/CS584-ML-Project.pptx)
+[Download Presentation PDF](project/CS584_ML_FinalProject_Presentation.pdf)
 
 ---
 
