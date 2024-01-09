@@ -29,6 +29,11 @@ This project uses AI architectures in order to be able to detect mice´s Gravity
 
 - [Download LaTeX Report PDF](project/doc/Julen_Ferro___Eneko_Gonzalez_CS_584_Project__CVPR_.pdf)
 
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/pikachu.PNG" width="500"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/pikachu_pokecards_analogy.PNG" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/dataset.PNG" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/best_model_lstm.PNG" width="500"/>
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/final_results.PNG" width="500"/>
+
 ---
 
 📁 ***_HOMEWORK 1:_***
