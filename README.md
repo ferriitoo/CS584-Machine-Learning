@@ -35,6 +35,18 @@ This project uses AI architectures in order to be able to detect mice´s Gravity
 
 ---
 
+Linear Regression, Theoretical questions.
+
+
+Scatter Plots 
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+
+
+Decision Boundaries
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+
 ---
 
 
@@ -42,12 +54,20 @@ This project uses AI architectures in order to be able to detect mice´s Gravity
 
 ---
 
----
-
-📁 ***_HOMEWORK 3:_***
----
+Logistic Regression
 
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
 
+Navier Bayes
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+
+Sampling
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
+
+Gaussian Probability Distribution function
+
+<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/training.png" width="500"/>
 
 ---
