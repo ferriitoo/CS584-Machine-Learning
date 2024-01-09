@@ -14,6 +14,8 @@ This project uses AI architectures to detect mice´s Gravity Center (GC) by usin
 - [Download Presentation PPTX](project/CS584-ML-Project.pptx)
 - [Download Presentation PDF](project/CS584_ML_FinalProject_Presentation.pdf)
 
+---
+
 ***_ANNOTATIONS PHASE_***
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/annotations_image.PNG" width="48%" />
@@ -29,9 +31,12 @@ This project uses AI architectures to detect mice´s Gravity Center (GC) by usin
   <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/0024 (subset-toobig)/A_male_meet_with_the_same_cage_mate_side_view_4_2022-08-10_15-41-04_736.png" width="48%" />
 </div>
 
+---
+
 ***_DATASET_***  
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/dataset_annotations.PNG" width="96%" />
 
+---
 
 📁 ***_Sequential Prediction Project: Apple Stock Prediction_***
 
@@ -42,6 +47,8 @@ This project uses AI architectures to detect mice´s Gravity Center (GC) by usin
 * Additionally, non-Machine Learning based predictive statistical techniques are also used in order to compare and assess the importance of Machine Learning in order to learn from features, rather than performing basic statistical analysis with: ARIMA, and different Window-sized Simple Moving Averages (SMA)...
 
 - [Download LaTeX Report PDF](project/doc/Julen_Ferro___Eneko_Gonzalez_CS_584_Project__CVPR_.pdf)
+
+---
 
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/pikachu.PNG" width="500"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/pikachu_pokecards_analogy.PNG" width="500"/>
 <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/dataset.PNG" width="500"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/final_results.PNG" width="500"/>
