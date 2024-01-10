@@ -77,18 +77,29 @@ Decision Boundaries
 
 ---
 
-
 📁 ***_HOMEWORK 2:_***
 
 ---
 
 Logistic Regression, Navier Bayes & Sampling:
 
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_1.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_2.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_3.png" width="250"/> <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_4.png" width="250"/>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_1.png" width="250"/> 
+  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_2.png" width="250"/> 
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_3.png" width="250"/>
+  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/sampling_4.png" width="250"/>
+</div>
+
 
 Gaussian Probability Distribution function
 
-<img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/gaussian_prob.png" width="500"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ferriitoo/CS584-Machine-Learning/blob/main/results/gaussian_prob.png" width="500"/>
+</div>
 
 ---
 
